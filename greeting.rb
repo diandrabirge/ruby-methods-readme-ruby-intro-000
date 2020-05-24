@@ -4,6 +4,6 @@ end
 
 greetingruby
 greetingruby
-greetingruby 
-greetingruby 
+greetingruby
+greetingruby
 greetingruby
