@@ -2,8 +2,8 @@ def greeting
   puts "Hello World"
 end
 
-greetingruby
-greetingruby
-greetingruby
-greetingruby
-greetingruby
+greeting
+greeting
+greeting
+greeting
+greeting
